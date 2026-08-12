@@ -1,0 +1,187 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <radialGradient id="bg">
+      <stop offset="0%" stop-color="#15112B"/>
+      <stop offset="55%" stop-color="#090914"/>
+      <stop offset="100%" stop-color="#030307"/>
+    </radialGradient>
+
+    <linearGradient id="line">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+
+  <!-- SPACE -->
+
+  <rect width="1000" height="260" rx="28" fill="url(#bg)"/>
+
+
+  <!-- STARS -->
+
+  <g fill="#FFFFFF">
+
+    <circle cx="80" cy="50" r="1"/>
+    <circle cx="160" cy="90" r="1.5"/>
+    <circle cx="250" cy="35" r="1"/>
+    <circle cx="350" cy="70" r="1"/>
+    <circle cx="650" cy="45" r="1.5"/>
+    <circle cx="760" cy="80" r="1"/>
+    <circle cx="850" cy="40" r="1"/>
+    <circle cx="930" cy="100" r="1.5"/>
+
+    <circle cx="120" cy="200" r="1"/>
+    <circle cx="300" cy="220" r="1.5"/>
+    <circle cx="700" cy="215" r="1"/>
+    <circle cx="880" cy="190" r="1.5"/>
+
+  </g>
+
+
+  <!-- TWINKLING STARS -->
+
+  <g fill="#C4B5FD">
+
+    <circle cx="220" cy="130" r="2">
+
+      <animate
+        attributeName="opacity"
+        values="0.2;1;0.2"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+    <circle cx="790" cy="145" r="2">
+
+      <animate
+        attributeName="opacity"
+        values="1;0.2;1"
+        dur="3s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+  </g>
+
+
+  <!-- TOP LINE -->
+
+  <rect
+    x="150"
+    y="35"
+    width="700"
+    height="1"
+    fill="url(#line)"/>
+
+
+  <!-- MAIN TEXT -->
+
+  <text
+    x="500"
+    y="105"
+    text-anchor="middle"
+    fill="#FFFFFF"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="24"
+    font-weight="700"
+    letter-spacing="5">
+
+    TRANSMISSION COMPLETE
+
+  </text>
+
+
+  <!-- SUBTEXT -->
+
+  <text
+    x="500"
+    y="135"
+    text-anchor="middle"
+    fill="#A78BFA"
+    font-family="monospace"
+    font-size="13"
+    letter-spacing="2">
+
+    BUILD • CREATE • EXPLORE • REPEAT
+
+  </text>
+
+
+  <!-- SIGNAL -->
+
+  <text
+    x="500"
+    y="175"
+    text-anchor="middle"
+    fill="#64748B"
+    font-family="monospace"
+    font-size="11">
+
+    ARPITA 27 
+
+  </text>
+
+
+  <!-- MOVING SIGNAL -->
+
+  <circle
+    cx="200"
+    cy="200"
+    r="3"
+    fill="#C4B5FD"
+    filter="url(#glow)">
+
+    <animate
+      attributeName="cx"
+      values="200;800;200"
+      dur="8s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- BOTTOM LINE -->
+
+  <rect
+    x="150"
+    y="215"
+    width="700"
+    height="1"
+    fill="url(#line)"/>
+
+
+  <!-- CENTRAL STAR -->
+
+  <text
+    x="500"
+    y="70"
+    text-anchor="middle"
+    fill="#FFFFFF"
+    font-size="18">
+
+    ✦
+
+    <animate
+      attributeName="opacity"
+      values="0.3;1;0.3"
+      dur="2s"
+      repeatCount="indefinite"/>
+
+  </text>
+
+</svg>

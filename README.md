@@ -2,21 +2,18 @@
 
 <img src="./assets/banner.svg" width="850"/>
 
-
 # Hey, I'm Arpita! ✨
 
 ### Computer Science Student • Builder • AI Explorer • Creative Technologist
 
 <p align="center">
-  <a href="https://github.com/ARPITA27">
+  <a href="https://github.com/ArpitaM27">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/arpita-mahapatra-b19451280/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:lipsha2712@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -25,60 +22,58 @@
 
 ---
 
-### 🌱 A little about me...
+### 🌱 A little about me
 
-> *"Build things. Break things. Learn why they broke."*
+> **"Build things. Break things. Learn why they broke."**
 
-I'm a **Computer Science undergraduate and builder** who enjoys working at the intersection of software engineering, artificial intelligence, product development, and design.
+I'm a **Computer Science undergraduate and builder** exploring the intersection of software engineering, AI, product development, and design.
 
-I like building things that are more than just projects for a resume — systems that solve actual problems, have a reason to exist, and can grow into something bigger.
+I enjoy building things that solve real problems — not just projects that look good on a resume.
 
-Currently exploring **backend engineering, AI/ML, system design, cloud technologies, and product development**, while sharpening my problem-solving skills through DSA.
+Currently exploring **backend engineering, AI/ML, system design, cloud, and product development**, while sharpening my problem-solving skills through DSA.
 
-When I'm not coding, you'll probably find me writing, designing, reading, or turning a random idea into a slightly-too-ambitious project. 🚀
+When I'm not coding, I'm probably **writing, designing, reading, or turning a random idea into a slightly-too-ambitious project.** 🚀
 
 ---
+
 <div align="center">
 
 <img src="./assets/universe.svg" width="900"/>
 
 </div>
+
 <div align="center">
 
 <a href="#-artificial-intelligence">
-  <img src="https://img.shields.io/badge/✦_AI_/_ML-7C3AED?style=for-the-badge&labelColor=0B0B18" />
+<img src="https://img.shields.io/badge/✦_AI_/_ML-7C3AED?style=for-the-badge&labelColor=0B0B18"/>
 </a>
 
 <a href="#-featured-builds">
-  <img src="https://img.shields.io/badge/◇_BUILDS-2563EB?style=for-the-badge&labelColor=07121D" />
+<img src="https://img.shields.io/badge/◇_BUILDS-2563EB?style=for-the-badge&labelColor=07121D"/>
 </a>
 
 <a href="#-creative-corner">
-  <img src="https://img.shields.io/badge/✧_CREATIVE-EC4899?style=for-the-badge&labelColor=1A0915" />
+<img src="https://img.shields.io/badge/✧_CREATIVE-EC4899?style=for-the-badge&labelColor=1A0915"/>
 </a>
 
-<a href="#-beyond-code">
-  <img src="https://img.shields.io/badge/∿_WRITING-F59E0B?style=for-the-badge&labelColor=191205" />
+<a href="#-tech-stack">
+<img src="https://img.shields.io/badge/⚙_STACK-64748B?style=for-the-badge&labelColor=0B0B18"/>
 </a>
 
 </div>
 
-### 🏆 Achievements
+---
 
-### ✦ Artificial Intelligence
+## ✦ Artificial Intelligence
 
-I'm fascinated by systems that can **perceive, reason, retrieve, and act**.
-
-My current exploration spans:
+I'm fascinated by systems that can **perceive, reason, retrieve, and act.**
 
 ```text
 Machine Learning
       ↓
 Generative AI
       ↓
-RAG
-      ↓
-LLMs
+RAG & LLMs
       ↓
 AI Agents
       ↓
@@ -86,198 +81,120 @@ Computer Vision
 
 <div align="center">
 
-> **I don't build projects just to learn a technology.**
->
-> I build things to understand what happens when an idea
-> survives contact with reality.
+I don't build projects just to learn a technology.
+
+I build things to understand what happens when an idea
+survives contact with reality.
 
 </div>
-
 🚀 Featured Builds
-<table> <tr> <td width="50%" valign="top"> <h3>🧠 IntelliMail</h3>
-
-<b>AI Email Intelligence Platform</b>
-
-<code>Python</code>
-<code>FastAPI</code>
-<code>PostgreSQL</code>
-<code>SQLAlchemy</code>
-<code>Docker</code>
-
-<p> An AI-first email intelligence platform designed to evolve into a personal executive assistant. </p> <ul> <li>🧠 AI-powered email intelligence</li> <li>⚡ FastAPI backend architecture</li> <li>🗄️ PostgreSQL data layer</li> <li>🐳 Dockerized development</li> <li>🔍 Designed for intelligent search & workflows</li> </ul>
-
-<a href="YOUR_INTELLIMAIL_REPO">🐙 Source Code</a>
-
-</td> <td width="50%" valign="top"> <h3>📐 Maths Beyond Classroom</h3>
-
-<b>Olympiad & Scholarship Learning Platform</b>
+<table> <tr> <td width="33%" valign="top"> <h3>🧮 Maths Beyond Classroom</h3> <p> Full-stack Olympiad mathematics platform for structured learning, practice, and assessment. </p>
 
 <code>React</code>
+<code>Express</code>
+<code>Prisma</code>
+<code>PostgreSQL</code>
+
+<br><br>
+
+<a href="https://github.com/ArpitaM27/Maths-Beyond-Classroom"> <b>→ Source</b> </a> </td> <td width="33%" valign="top"> <h3>🛒 Baazario</h3> <p> Digital supply platform designed to help street food vendors coordinate bulk purchasing and suppliers. </p>
+
 <code>Node.js</code>
 <code>Express</code>
-<code>PostgreSQL</code>
-<code>Prisma</code>
+<code>MongoDB</code>
+<code>JWT</code>
 
-<p> An education platform focused on olympiad and scholarship preparation. </p> <ul> <li>📚 Lectures & study materials</li> <li>📝 Assignments & PYQ library</li> <li>🎯 POTD & mock tests</li> <li>💳 Pro plans & payment workflows</li> <li>🔐 Role-based architecture</li> </ul>
+<br><br>
 
-<a href="YOUR_MBC_REPO">🐙 Source Code</a>
-
-</td> </tr> <tr> <td width="50%" valign="top"> <h3>🤟 HandSign AI</h3>
-
-<b>Real-Time Hand Gesture Recognition</b>
+<a href="https://github.com/ArpitaM27/Baazario"> <b>→ Source</b> </a> </td> <td width="33%" valign="top"> <h3>📓 DSA Diary</h3> <p> My growing LeetCode journey — problems, patterns, approaches, mistakes, and lessons. </p>
 
 <code>Python</code>
-<code>OpenCV</code>
-<code>MediaPipe</code>
-<code>Computer Vision</code>
+<code>DSA</code>
+<code>LeetCode</code>
 
-<p> An interactive computer-vision system for recognizing hand gestures and converting them into useful computer controls. </p> <ul> <li>👋 Real-time hand tracking</li> <li>🖐️ Gesture recognition</li> <li>🎮 Touchless interaction</li> <li>💻 Designed for presentation & media control</li> </ul>
+<br><br>
 
-<a href="YOUR_HANDSIGN_REPO">🐙 Source Code</a>
-
-</td> <td width="50%" valign="top"> <h3>🌐 Zairzest</h3>
-
-<b>Interactive Web Experience</b>
-
-<code>HTML</code>
-<code>CSS</code>
-<code>JavaScript</code>
-
-<p> A collaborative web project focused on creating a polished and interactive frontend experience. </p> <ul> <li>🎨 UI-focused development</li> <li>📱 Responsive interface</li> <li>🤝 Collaborative Git workflow</li> <li>✨ Interactive web experience</li> </ul>
-
-<a href="YOUR_ZAIRZEST_REPO">🐙 Source Code</a>
-
-### 🛰️ Mission Log
-
-```text
-2025  ── Competitions • Design • Experiments
-          │
-2026  ── Backend • AI • DSA • Product Building
-          │
-          ├── IntelliMail
-          ├── Maths Beyond Classroom
-          ├── HandSign AI
-          └── More experiments incoming...
-          │
-2027  ── Deepening systems + AI engineering
-          │
-          ▼
-        ????
-
-</td> </tr> </table>
-👩‍💻 const Arpita = { ... }
-const Arpita = {
-
-    role: "Computer Science Undergraduate",
-
-    operatingSystems: [
-        "Windows",
-        "Linux"
-    ],
-
-    languages: {
-        comfortable: [
-            "Python",
-            "C",
-            "C++",
-            "JavaScript",
-            "SQL"
-        ],
-
-        learning: [
-            "TypeScript"
-        ]
-    },
-
-    backend: [
-        "FastAPI",
-        "Node.js",
-        "Express.js"
-    ],
-
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React"
-    ],
-
-    databases: [
-        "PostgreSQL",
-        "MySQL",
-        "Prisma"
-    ],
-
-    ai_ml: [
-        "Machine Learning",
-        "Generative AI",
-        "RAG",
-        "LLMs",
-        "Computer Vision"
-    ],
-
-    devops: [
-        "Git",
-        "GitHub",
-        "Docker"
-    ],
-
-    design: [
-        "Figma",
-        "Canva",
-        "UI/UX"
-    ],
-
-    core: [
-        "Data Structures & Algorithms",
-        "DBMS",
-        "Operating Systems",
-        "Computer Networks"
-    ],
-
-    currentlyLearning: [
-        "System Design",
-        "Cloud",
-        "AI Engineering"
-    ]
-};
-🧩 Currently Building
-<div align="center">
-🧠 IntelliMail	🤟 HandSign AI	🧮 DSA
-AI Email Intelligence	Touchless Computer Control	Problem Solving
-FastAPI • PostgreSQL	Python • OpenCV	C++ • Python
+<a href="https://github.com/ArpitaM27/Dsa-Diary"> <b>→ View Diary</b> </a> </td> </tr> </table>
+🛰️ Mission Log
+<p align="center"> <i>Not a roadmap. Just the direction I'm heading.</i> </p> <div align="center">
+2025
+│
+└── FINDING THE SIGNAL
+    Competitions · Design · Writing · Experiments
+    │
+    ▼
+2026
+│
+└── BUILDING THE FOUNDATION
+    Backend · AI · DSA · Product
+    │
+    ├── 🧮 Maths Beyond Classroom
+    ├── 🛒 Baazario
+    └── 📓 DSA Diary
+    │
+    ▼
+    CURRENT ORBIT
+    │
+    ├── 🧠 AI Engineering
+    ├── ⚙️ Backend Systems
+    ├── 🧩 DSA
+    └── 🚀 Product Building
+    │
+    ├── Incoming → IntelliMail
+    └── Incoming → HandSign AI
+    │
+    ▼
+2027
+│
+└── GOING DEEPER
+    Systems · AI Engineering · Cloud · Architecture
+    │
+    ▼
+    ???? 
+    wherever the building takes me.
 </div>
-✍️ Beyond Code
+👩🏻‍💻 A little beyond code
+<p align="center"> <i>Technology is one of the things I love. It's not the only one.</i> </p> <div align="center">
 
-I write too.
+🎨 UI/UX
+✍️ Writing
+🎬 Film
+📖 Storytelling
 
-Short stories.
-Poetry.
-Screenplays.
-Ideas that probably should have stayed inside my Notes app. 😭
+</div> <p align="center"> I write short stories, poetry & screenplays, <br> experiment with visual ideas, <br> and turn random thoughts into projects. </p> <div align="center">
 
-I enjoy exploring the intersection of technology, storytelling, design, and human experiences.
+<i>Making things functional is fun.<br>
+Making them memorable is better.</i>
 
-🎨 Creative Corner
-UI/UX
-   ↓
-Visual Storytelling
-   ↓
-Writing
-   ↓
-Film
-   ↓
-Interactive Technology
+</div>
+🚀 Tech Stack
+<p align="center"> <i>The tools I use to turn ideas into things that actually work.</i> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,react&theme=dark"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,prisma,mongodb&theme=dark"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,canva&theme=dark"/> </p>
+📊 GitHub Telemetry
+<p align="center"> <i>A small window into the things I build every day.</i> </p> <br> <div align="center">
 
-I like building things that are not only functional, but also feel good to use and remember.
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArpitaM27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C4B5FD&text_color=E6EDF3" width="480" alt="GitHub Stats" />
 
-🛠️ Tech Stack
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,express,fastapi,tailwind&theme=dark" /> </a> </p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,git,github,linux,vscode,figma&theme=dark" /> </a> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ARPITA27&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPITA27&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARPITA27&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/> </p>
-🐍 Contribution Graph
-<p align="center"> <img src="https://raw.githubusercontent.com/ARPITA27/ARPITA27/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> </p>
-<div align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArpitaM27&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3" width="350" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitaM27&background=0D1117&border=30363D&stroke=A78BFA&ring=A78BFA&fire=C4B5FD&currStreakNum=E6EDF3&currStreakLabel=8B949E&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" width="700" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitaM27&bg_color=0D1117&color=A78BFA&line=A78BFA&point=C4B5FD&area=true&hide_border=true" width="95%" alt="GitHub Contribution Graph" />
+
+</div>
+🐍 Contribution Journey
+<p align="center"> <i>Every contribution leaves a trace.</i> </p> <div align="center">
+
+<img src="./assets/github-contribution-snake-dark.svg" width="900" alt="GitHub Contribution Snake" />
+
+</div>
+<div align="center"> <img src="./assets/footer.svg" width="900" alt="Transmission Complete"/>
+
+<br><br>
+
 🌌 Still building. Still learning. Still curious.
 
 Code • Create • Learn • Repeat
