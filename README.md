@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" width="850"/>
 
-# Hey, I'm Arpita! ✨
+# I'm Arpita! ✨
 
 ### Computer Science Student • Builder • AI Explorer • Creative Technologist
 
@@ -52,7 +52,7 @@ When I'm not coding, I'm probably **writing, designing, reading, or turning a ra
 <img src="https://img.shields.io/badge/◇_BUILDS-2563EB?style=for-the-badge&labelColor=07121D"/>
 </a>
 
-<a href="#-creative-corner">
+<a href="#-a-little-beyond-code">
 <img src="https://img.shields.io/badge/✧_CREATIVE-EC4899?style=for-the-badge&labelColor=1A0915"/>
 </a>
 
@@ -68,6 +68,8 @@ When I'm not coding, I'm probably **writing, designing, reading, or turning a ra
 
 I'm fascinated by systems that can **perceive, reason, retrieve, and act.**
 
+My current exploration spans:
+
 ```text
 Machine Learning
       ↓
@@ -78,17 +80,31 @@ RAG & LLMs
 AI Agents
       ↓
 Computer Vision
+```
 
 <div align="center">
 
-I don't build projects just to learn a technology.
-
-I build things to understand what happens when an idea
-survives contact with reality.
+> **I don't build projects just to learn a technology.**
+>
+> I build things to understand what happens when an idea  
+> survives contact with reality.
 
 </div>
-🚀 Featured Builds
-<table> <tr> <td width="33%" valign="top"> <h3>🧮 Maths Beyond Classroom</h3> <p> Full-stack Olympiad mathematics platform for structured learning, practice, and assessment. </p>
+
+---
+
+## 🚀 Featured Builds
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3>🧮 Maths Beyond Classroom</h3>
+
+<p>
+Full-stack Olympiad mathematics platform for structured learning, practice, and assessment.
+</p>
 
 <code>React</code>
 <code>Express</code>
@@ -97,7 +113,19 @@ survives contact with reality.
 
 <br><br>
 
-<a href="https://github.com/ArpitaM27/Maths-Beyond-Classroom"> <b>→ Source</b> </a> </td> <td width="33%" valign="top"> <h3>🛒 Baazario</h3> <p> Digital supply platform designed to help street food vendors coordinate bulk purchasing and suppliers. </p>
+<a href="https://github.com/ArpitaM27/Maths-Beyond-Classroom">
+<b>→ Source</b>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🛒 Baazario</h3>
+
+<p>
+Digital supply platform designed to help street food vendors coordinate bulk purchasing and suppliers.
+</p>
 
 <code>Node.js</code>
 <code>Express</code>
@@ -106,7 +134,19 @@ survives contact with reality.
 
 <br><br>
 
-<a href="https://github.com/ArpitaM27/Baazario"> <b>→ Source</b> </a> </td> <td width="33%" valign="top"> <h3>📓 DSA Diary</h3> <p> My growing LeetCode journey — problems, patterns, approaches, mistakes, and lessons. </p>
+<a href="https://github.com/ArpitaM27/Baazario">
+<b>→ Source</b>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>📓 DSA Diary</h3>
+
+<p>
+My growing LeetCode journey — problems, patterns, approaches, mistakes, and lessons.
+</p>
 
 <code>Python</code>
 <code>DSA</code>
@@ -114,9 +154,26 @@ survives contact with reality.
 
 <br><br>
 
-<a href="https://github.com/ArpitaM27/Dsa-Diary"> <b>→ View Diary</b> </a> </td> </tr> </table>
-🛰️ Mission Log
-<p align="center"> <i>Not a roadmap. Just the direction I'm heading.</i> </p> <div align="center">
+<a href="https://github.com/ArpitaM27/Dsa-Diary">
+<b>→ View Diary</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛰️ Mission Log
+
+<p align="center">
+  <i>Not a roadmap. Just the direction I'm heading.</i>
+</p>
+
+<div align="center">
+
+```text
 2025
 │
 └── FINDING THE SIGNAL
@@ -140,8 +197,8 @@ survives contact with reality.
     ├── 🧩 DSA
     └── 🚀 Product Building
     │
-    ├── Incoming → IntelliMail
-    └── Incoming → HandSign AI
+    ├── NEXT → IntelliMail
+    └── NEXT → HandSign AI
     │
     ▼
 2027
@@ -150,53 +207,147 @@ survives contact with reality.
     Systems · AI Engineering · Cloud · Architecture
     │
     ▼
-    ???? 
+    ????
     wherever the building takes me.
-</div>
-👩🏻‍💻 A little beyond code
-<p align="center"> <i>Technology is one of the things I love. It's not the only one.</i> </p> <div align="center">
-
-🎨 UI/UX
-✍️ Writing
-🎬 Film
-📖 Storytelling
-
-</div> <p align="center"> I write short stories, poetry & screenplays, <br> experiment with visual ideas, <br> and turn random thoughts into projects. </p> <div align="center">
-
-<i>Making things functional is fun.<br>
-Making them memorable is better.</i>
+```
 
 </div>
-🚀 Tech Stack
-<p align="center"> <i>The tools I use to turn ideas into things that actually work.</i> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,react&theme=dark"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,prisma,mongodb&theme=dark"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,canva&theme=dark"/> </p>
-📊 GitHub Telemetry
-<p align="center"> <i>A small window into the things I build every day.</i> </p> <br> <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArpitaM27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C4B5FD&text_color=E6EDF3" width="480" alt="GitHub Stats" />
+---
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArpitaM27&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3" width="350" alt="Top Languages" />
+## 👩🏻‍💻 A little beyond code
+
+<p align="center">
+  <i>Technology is one of the things I love. It's not the only one.</i>
+</p>
+
+<div align="center">
+
+🎨 **UI/UX**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+✍️ **Writing**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🎬 **Film**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+📖 **Storytelling**
+
+</div>
+
+<br>
+
+<p align="center">
+I write short stories, poetry & screenplays,<br>
+experiment with visual ideas,<br>
+and turn random thoughts into projects.
+</p>
+
+<div align="center">
+
+<i>
+Making things functional is fun.<br>
+Making them memorable is better.
+</i>
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <i>The tools I use to turn ideas into things that actually work.</i>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,react&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,prisma,mongodb&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,canva&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Telemetry
+
+<p align="center">
+  <i>A small window into the things I build every day.</i>
+</p>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArpitaM27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C4B5FD&text_color=E6EDF3"
+  width="480"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArpitaM27&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3"
+  width="350"
+  alt="Top Languages"
+/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitaM27&background=0D1117&border=30363D&stroke=A78BFA&ring=A78BFA&fire=C4B5FD&currStreakNum=E6EDF3&currStreakLabel=8B949E&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" width="700" alt="GitHub Streak" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitaM27&background=0D1117&border=30363D&stroke=A78BFA&ring=A78BFA&fire=C4B5FD&currStreakNum=E6EDF3&currStreakLabel=8B949E&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E"
+  width="700"
+  alt="GitHub Streak"
+/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitaM27&bg_color=0D1117&color=A78BFA&line=A78BFA&point=C4B5FD&area=true&hide_border=true" width="95%" alt="GitHub Contribution Graph" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitaM27&bg_color=0D1117&color=A78BFA&line=A78BFA&point=C4B5FD&area=true&hide_border=true"
+  width="95%"
+  alt="GitHub Contribution Graph"
+/>
 
 </div>
-🐍 Contribution Journey
-<p align="center"> <i>Every contribution leaves a trace.</i> </p> <div align="center">
 
-<img src="./assets/github-contribution-snake-dark.svg" width="900" alt="GitHub Contribution Snake" />
+---
+
+## 🐍 Contribution Journey
+
+<p align="center">
+  <i>Every contribution leaves a trace.</i>
+</p>
+
+<br>
+
+<div align="center">
+
+<img
+  src="./assets/github-contribution-snake-dark.svg"
+  width="900"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
-<div align="center"> <img src="./assets/footer.svg" width="900" alt="Transmission Complete"/>
+
+---
+
+<div align="center">
+
+<img
+  src="./assets/footer.svg"
+  width="900"
+  alt="Transmission Complete"
+/>
 
 <br><br>
 
-🌌 Still building. Still learning. Still curious.
+🌌 **Still building. Still learning. Still curious.**
 
-Code • Create • Learn • Repeat
+`Code` • `Create` • `Learn` • `Repeat`
 
-</div> ```
+</div>
