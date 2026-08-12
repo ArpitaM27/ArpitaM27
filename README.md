@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="130" />
+<img src="./assets/banner.svg" width="850"/>
+
 
 # Hey, I'm Arpita! ✨
 
