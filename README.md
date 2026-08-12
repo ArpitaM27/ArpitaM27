@@ -38,16 +38,61 @@ Currently exploring **backend engineering, AI/ML, system design, cloud technolog
 When I'm not coding, you'll probably find me writing, designing, reading, or turning a random idea into a slightly-too-ambitious project. 🚀
 
 ---
+<div align="center">
+
+<img src="./assets/universe.svg" width="900"/>
+
+</div>
+<div align="center">
+
+<a href="#-artificial-intelligence">
+  <img src="https://img.shields.io/badge/✦_AI_/_ML-7C3AED?style=for-the-badge&labelColor=0B0B18" />
+</a>
+
+<a href="#-featured-builds">
+  <img src="https://img.shields.io/badge/◇_BUILDS-2563EB?style=for-the-badge&labelColor=07121D" />
+</a>
+
+<a href="#-creative-corner">
+  <img src="https://img.shields.io/badge/✧_CREATIVE-EC4899?style=for-the-badge&labelColor=1A0915" />
+</a>
+
+<a href="#-beyond-code">
+  <img src="https://img.shields.io/badge/∿_WRITING-F59E0B?style=for-the-badge&labelColor=191205" />
+</a>
+
+</div>
 
 ### 🏆 Achievements
 
-```javascript
-const Achievements = [
-    "🥉 3rd Prize — Ecothon 2025",
-    "🏆 Winner — Ad Spoof Competition",
-    "🤖 AI Visions Challenge",
-    "🎯 Multiple hackathons & competitions"
-];
+### ✦ Artificial Intelligence
+
+I'm fascinated by systems that can **perceive, reason, retrieve, and act**.
+
+My current exploration spans:
+
+```text
+Machine Learning
+      ↓
+Generative AI
+      ↓
+RAG
+      ↓
+LLMs
+      ↓
+AI Agents
+      ↓
+Computer Vision
+
+<div align="center">
+
+> **I don't build projects just to learn a technology.**
+>
+> I build things to understand what happens when an idea
+> survives contact with reality.
+
+</div>
+
 🚀 Featured Builds
 <table> <tr> <td width="50%" valign="top"> <h3>🧠 IntelliMail</h3>
 
@@ -101,6 +146,23 @@ const Achievements = [
 <p> A collaborative web project focused on creating a polished and interactive frontend experience. </p> <ul> <li>🎨 UI-focused development</li> <li>📱 Responsive interface</li> <li>🤝 Collaborative Git workflow</li> <li>✨ Interactive web experience</li> </ul>
 
 <a href="YOUR_ZAIRZEST_REPO">🐙 Source Code</a>
+
+### 🛰️ Mission Log
+
+```text
+2025  ── Competitions • Design • Experiments
+          │
+2026  ── Backend • AI • DSA • Product Building
+          │
+          ├── IntelliMail
+          ├── Maths Beyond Classroom
+          ├── HandSign AI
+          └── More experiments incoming...
+          │
+2027  ── Deepening systems + AI engineering
+          │
+          ▼
+        ????
 
 </td> </tr> </table>
 👩‍💻 const Arpita = { ... }
