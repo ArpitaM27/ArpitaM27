@@ -19,15 +19,21 @@ jobs:
 
     steps:
 
+      # 1. Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      # 2. Generate the contribution snake
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ARPITA27
           outputs: |
-            assets/github-contribution-snake.svg
+            assets/github-contribution-snake.svg?color_snake=#a78bfa&color_dots=#161b22,#312e81,#4c1d95,#7c3aed,#c4b5fd
             assets/github-contribution-snake-dark.svg?palette=github-dark&color_snake=#a78bfa&color_dots=#161b22,#312e81,#4c1d95,#7c3aed,#c4b5fd
 
-      - name: Push Snake
+      # 3. Commit generated files
+      - name: Commit Snake
         uses: EndBug/add-and-commit@v9
         with:
           message: "🐍 Update contribution snake"
