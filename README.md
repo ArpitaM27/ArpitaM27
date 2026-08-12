@@ -28,7 +28,7 @@
 
 I'm a **Computer Science undergraduate and builder** exploring the intersection of software engineering, AI, product development, and design.
 
-I enjoy building things that solve real problems — not just projects that look good on a resume.
+I enjoy building things that solve real problems; not just projects that look good on a resume.
 
 Currently exploring **backend engineering, AI/ML, system design, cloud, and product development**, while sharpening my problem-solving skills through DSA.
 
@@ -45,19 +45,19 @@ When I'm not coding, I'm probably **writing, designing, reading, or turning a ra
 <div align="center">
 
 <a href="#-artificial-intelligence">
-<img src="https://img.shields.io/badge/✦_AI_/_ML-7C3AED?style=for-the-badge&labelColor=0B0B18"/>
+<img src="https://img.shields.io/badge/✦_AI_-7C3AED?style=for-the-badge&labelColor=0B0B18"/>
 </a>
 
 <a href="#-featured-builds">
-<img src="https://img.shields.io/badge/◇_BUILDS-2563EB?style=for-the-badge&labelColor=07121D"/>
+<img src="https://img.shields.io/badge/◇_CODE-2563EB?style=for-the-badge&labelColor=07121D"/>
 </a>
 
 <a href="#-a-little-beyond-code">
-<img src="https://img.shields.io/badge/✧_CREATIVE-EC4899?style=for-the-badge&labelColor=1A0915"/>
+<img src="https://img.shields.io/badge/✧_DESIGN-EC4899?style=for-the-badge&labelColor=1A0915"/>
 </a>
 
 <a href="#-tech-stack">
-<img src="https://img.shields.io/badge/⚙_STACK-64748B?style=for-the-badge&labelColor=0B0B18"/>
+<img src="https://img.shields.io/badge/⚙_CREATE-64748B?style=for-the-badge&labelColor=0B0B18"/>
 </a>
 
 </div>
@@ -114,7 +114,7 @@ Full-stack Olympiad mathematics platform for structured learning, practice, and 
 <br><br>
 
 <a href="https://github.com/ArpitaM27/Maths-Beyond-Classroom">
-<b>→ Source</b>
+<b>Source</b>
 </a>
 
 </td>
@@ -135,7 +135,7 @@ Digital supply platform designed to help street food vendors coordinate bulk pur
 <br><br>
 
 <a href="https://github.com/ArpitaM27/Baazario">
-<b>→ Source</b>
+<b>Source</b>
 </a>
 
 </td>
@@ -145,7 +145,7 @@ Digital supply platform designed to help street food vendors coordinate bulk pur
 <h3>📓 DSA Diary</h3>
 
 <p>
-My growing LeetCode journey — problems, patterns, approaches, mistakes, and lessons.
+My growing LeetCode journey: problems, patterns, approaches, mistakes, and lessons.
 </p>
 
 <code>Python</code>
@@ -155,7 +155,7 @@ My growing LeetCode journey — problems, patterns, approaches, mistakes, and le
 <br><br>
 
 <a href="https://github.com/ArpitaM27/Dsa-Diary">
-<b>→ View Diary</b>
+<b>View Diary</b>
 </a>
 
 </td>
@@ -227,7 +227,7 @@ My growing LeetCode journey — problems, patterns, approaches, mistakes, and le
 &nbsp;&nbsp; • &nbsp;&nbsp;
 ✍️ **Writing**
 &nbsp;&nbsp; • &nbsp;&nbsp;
-🎬 **Film**
+🎬 **Film Making**
 &nbsp;&nbsp; • &nbsp;&nbsp;
 📖 **Storytelling**
 
